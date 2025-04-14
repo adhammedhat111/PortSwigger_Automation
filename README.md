@@ -3,6 +3,7 @@
 Automated Python scripts to solve Cross-Site Scripting (XSS) labs on PortSwigger Web Security Academy.
 
 💡 Features
+
 1- Automatically detects and solves XSS labs
 
 2- Works with both reflected and stored XSS challenges
