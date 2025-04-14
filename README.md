@@ -29,6 +29,7 @@ cd xssploit
 python3 lab_name
 ```
 📌 Important Notes
+
 Modify the script: Before running, don't forget to change the lab_id, exploit_server_id, and collaborator_id inside the script.
 
 Lab ID: Each lab has a unique identifier. Make sure to replace it with your specific lab's ID.
