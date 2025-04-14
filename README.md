@@ -13,8 +13,8 @@ Automated Python scripts to solve Cross-Site Scripting (XSS) labs on PortSwigger
 🚀 Usage
 
 ```
-git clone https://github.com/yourusername/xssploit.git
-cd xssploit
+git clone https://github.com/adhammedhat111/PortSwigger_Automation.git
+cd PortSwigger_Automation
 python3 lab_name
 ```
 📌 Important Notes
