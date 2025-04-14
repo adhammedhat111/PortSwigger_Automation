@@ -10,17 +10,6 @@ Automated Python scripts to solve Cross-Site Scripting (XSS) labs on PortSwigger
 
 3- Lightweight and easy to use
 
-
-⚙️ Tech Stack
-
-Python 3
-
-requests
-
-bs4 (BeautifulSoup)
-
-webbrowser
-
 🚀 Usage
 
 ```
